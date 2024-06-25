@@ -1,0 +1,39 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "oi, tudo bem?",
+      "autoria": "joao",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "conteudo": "hj quero estudar",
+      "autoria": "sss",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 2
+    },
+    {
+      "conteudo": "www",
+      "autoria": "arthur",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 3
+    },
+    {
+      "conteudo": "boi boi",
+      "autoria": "vitor",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "s",
+      "autoria": "ssss",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 5
+    }
+  ]
+}
